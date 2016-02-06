@@ -14,11 +14,11 @@ y_train.txt
 subject_train.txt
 
 
-#Transformations made to the original data include
+#Transformations made to the original data:
 
-Merging the training and test sets into a single data set
-Using the descriptive activity names to name the activities in the data set
-Labeling the data set with descriptivie variable names
-Extracting only the mean and standard deviation measurements
+Merging the training and test sets into a single data set  
+Using the descriptive activity names to name the activities in the data set  
+Labeling the data set with descriptivie variable names  
+Extracting only the mean and standard deviation measurements  
 Creating a new tidy data set with the average of each variable for each activity and subect
 
